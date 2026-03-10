@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pydantic
+pinecone-client
+sentence-transformers
+python-multipart
+pytesseract
+pdf2image
+pillow
+numpy
+requests
